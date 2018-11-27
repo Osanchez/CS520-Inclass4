@@ -1,0 +1,19 @@
+Terrance Peters
+Omar Sanchez
+Jay Trask
+Michael Ahn
+
+Pair 1
+
+Test Case Inputs
+x = 0
+y = 0
+z = 1
+
+Sum will return 1
+Mutant will return -1
+
+1 does not equal -1
+
+Pair 2
+
